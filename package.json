@@ -5,7 +5,7 @@
   "author": "Hannah Kim <hkim@rmn.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "config": "^3.3.1",
